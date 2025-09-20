@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - Strategy backtesting (Private & WIP) – A manual trading strategy applicable to stocks/forex, based on the fractal nature of market structures, analysis of key price levels, confirmation signals, and risk/position management.<br>
 - Moires (Private & WIP) – Recently (September 2025) start to build a research tool that maps hidden option dealer flows — Gamma, Vanna, Charm — and adjusts them for market liquidity, revealing the invisible forces that drive price stability, volatility, and fragility.<br>
 
-📫 [LinkedIn](https://www.linkedin.com/in/robin-delaunay-839673333) | [CV PDF](lien_vers_ton_cv.pdf)
+[CV PDF](lien_vers_ton_cv.pdf)
