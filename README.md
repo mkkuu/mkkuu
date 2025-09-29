@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # 👋 Pleased to meet you
 
-🎓 4th year engineering student, specializing in **Quantitative Finance, Market Structure, Flow Analytics, Applied Data Science and Statistics**<br>
-🚀 Passionate about using **data** to find **competitive advantages** in the **field of study**<br>
-🔍 I am currently looking for an **internship/professional contract** in the field of **data engineering/scientism**.<br>
+- 4th year engineering student, specializing in **Quantitative Finance, Market Structure, Flow Analytics, Applied Data Science and Statistics**<br>
+- Passionate about using **data** to find **competitive advantages** in the **field of study**<br>
+- I am currently looking for an **internship/professional contract** in the field of **data engineering/scientism**.<br>
 
 ## 🛠 Tech skills
 - Programming languages: Python, C++, C & Java<br>
