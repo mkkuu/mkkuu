@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Pleased to meet you
 
-- 5th CS student, specializing in **Data Science**.<br>
+- 5th year CS student, specializing in **Data Science**.<br>
 - Passionate about using **data** to find **competitive advantages** in the **field of study**.<br>
 
 <!--
