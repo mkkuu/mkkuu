@@ -13,7 +13,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" /> &emsp;&emsp; <img src="https://skillicons.dev/icons?i=bash,julia,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,bash,julia" />
 </p>
 
 <!--
@@ -28,7 +28,6 @@
 ### Software & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,obsidian,nix" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48"/>
 </p>
 
 
